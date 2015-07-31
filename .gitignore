@@ -1,0 +1,9 @@
+/.bundle
+/log/*.log
+/tmp
+.idea
+public/assets
+questionnaire-rails4/public/assets
+questionnaire-rails4/tmp
+questionnaire-rails4/log/*
+
